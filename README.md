@@ -13,3 +13,6 @@ The notebook covers the full data science workflow — from data cleaning and pr
 - Model training using **XGBoost**  
 - Model evaluation  
 - Simple model deployment for testing  
+
+## Disclaimer
+This is my first time uploading a project to GitHub so I still have a lot to improve and to learn c:
